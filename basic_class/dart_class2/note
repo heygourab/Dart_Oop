@@ -1,0 +1,19 @@
+this is just a note:
+
+* True Object Oriented Programming Language:
+* 'Everything thing in Dart an Object!' 😋
+* Everything class you create will inherit, by default the OBJECT class. 
+
+Q.What is inheritance?
+ans. Sharing of behavior between more than 1 class.
+
+ex: 
+class Pet---|
+            |___class Dog
+            |____class Cat
+
+Q.What is this keyword?
+ans. this is for the current class.(this is for super class)
+
+Q.What is super keyword?
+ans. super is for the class right above it.(this is for inherit class)

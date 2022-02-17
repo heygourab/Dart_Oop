@@ -1,0 +1,7 @@
+this is just a note file
+//dart class method>>>
+Rule1>
+Any fields you create inside a class will have a default getter method
+Rule2>
+Any Non-Final fields & late final fields will
+have a a default setter method.
